@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portofolioReactBru/static/css/main.5ef1e47a.css",
+    "main.js": "/portofolioReactBru/static/js/main.64737e21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portofolioReactBru/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img-top.jpg": "/portofolioReactBru/static/media/img-top.18394c090045f733a7b2.jpg",
+    "static/media/javascript.jpg": "/portofolioReactBru/static/media/javascript.e0df116529566f2aa356.jpg",
+    "static/media/html.jpg": "/portofolioReactBru/static/media/html.b92129ddf88eb3c86bb0.jpg",
+    "static/media/foto-profil.jpg": "/portofolioReactBru/static/media/foto-profil.2caaa1a67b9f0d921365.jpg",
+    "static/media/css.png": "/portofolioReactBru/static/media/css.6d84fb1b107a4262ad0b.png",
+    "index.html": "/portofolioReactBru/index.html",
+    "main.5ef1e47a.css.map": "/portofolioReactBru/static/css/main.5ef1e47a.css.map",
+    "main.64737e21.js.map": "/portofolioReactBru/static/js/main.64737e21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portofolioReactBru/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef1e47a.css",
+    "static/js/main.64737e21.js"
+  ]
+}
